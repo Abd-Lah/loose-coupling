@@ -2,7 +2,6 @@ package pres;
 
 
 import game.IGame;
-import game.Standard;
 import movement.IMovement;
 
 import java.io.File;
